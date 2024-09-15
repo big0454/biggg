@@ -6,7 +6,7 @@
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/biggg/laila.py",
+    "postStartCommand": "python3 /workspaces/laila/laila.py",
     "customizations": {
         "vscode": {
             "settings": {

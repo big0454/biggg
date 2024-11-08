@@ -16,7 +16,7 @@ import threading  # Fix threading import
 
 # Replace with your bot token and owner ID
 TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
-YOUR_OWNER_ID = 5628960731
+YOUR_OWNER_ID = 7094215368
 
 bot = telebot.TeleBot("7020534774:AAFYHmLHrz9plmifsYp9QzB7g-JaIkkLGCw")
 # Paths to data files

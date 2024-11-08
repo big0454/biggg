@@ -18,7 +18,7 @@ import threading  # Fix threading import
 TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
 YOUR_OWNER_ID = 5628960731
 
-bot = telebot.TeleBot("7391673180:AAGjD09cFRiucnGehptb2Y0rXFzF3u4XP8A")
+bot = telebot.TeleBot("7020534774:AAFYHmLHrz9plmifsYp9QzB7g-JaIkkLGCw")
 # Paths to data files
 USERS_FILE = 'users.txt'
 BALANCE_FILE = 'balance.txt'
